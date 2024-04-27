@@ -118,5 +118,30 @@ print(plan)
 '''
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
