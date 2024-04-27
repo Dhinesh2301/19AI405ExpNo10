@@ -145,5 +145,4 @@ Therefore,Implementation of Classical Planning Algorithm is implemetated success
 
 
 
-# RESULT:
-Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
+
